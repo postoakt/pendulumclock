@@ -1,0 +1,2 @@
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C++\Pendulum Clock\Pendulum Clock\Pendulum ClockContent\obj\x86\Debug\Pendulum ClockContent.contentprojResolveAssemblyReference.cache
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum ClockContent\obj\x86\Debug\Pendulum ClockContent.contentprojResolveAssemblyReference.cache

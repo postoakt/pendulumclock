@@ -1,0 +1,37 @@
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C++\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Pendulum Clock.exe
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C++\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Pendulum Clock.pdb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C++\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Pendulum Clock.csprojResolveAssemblyReference.cache
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C++\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C++\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Pendulum Clock.exe
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C++\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Pendulum Clock.pdb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C++\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\stars.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\stars.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Pendulum Clock.exe
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Pendulum Clock.pdb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Pendulum Clock.csprojResolveAssemblyReference.cache
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Pendulum Clock.exe
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Pendulum Clock.pdb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_3.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_1.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_2.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_4.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_5.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_6.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_7.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_8.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_9.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\SpriteFont.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\P_10.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\ClockFace.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\SecondsHand.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\ShortHand.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\LongHand.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\clock-ticking.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\low_clock-ticking.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\clock_pendulum.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Content\lowest_clock-ticking.xnb
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Pendulum Clock.exe.manifest
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\bin\x86\Debug\Pendulum Clock.application
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Pendulum Clock.exe.manifest
+D:\Brogrammin'\Visual Studio 2010 Projects\Visual C# Xna\Pendulum Clock\Pendulum Clock\Pendulum Clock\obj\x86\Debug\Pendulum Clock.application
